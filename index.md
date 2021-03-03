@@ -1,7 +1,7 @@
 # Digital Humanities
 
 ## Timeline
-<iframe src='https://cdn.knightlab.com/libs/timeline/latest/embed/?source=1cWqQBZCkX9GpzFtxCWHoqFXCHg-ylTVUWlnrdYMzKUI&font=Bevan-PotanoSans&maptype=toner&width=600&height=600' width='600' height='600' frameborder='0'></iframe>
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Z404VAsC5dFVmmnf8ni8hXgxDqUF8j7Vt3f0Jvmn1zQ&font=Georgia-Helvetica&lang=cz&initial_zoom=2&height=600' width='100%' height='600' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
                                 
 
 ## Storymap
