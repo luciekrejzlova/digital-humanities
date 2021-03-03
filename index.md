@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Digital Humanities
 
 You can use the [editor on GitHub](https://github.com/luciekrejzlova/digital-humanities/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
